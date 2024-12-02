@@ -1,3 +1,6 @@
+This program outputs below
+
+
 ```bash
 [./main add.go]
 add.go
